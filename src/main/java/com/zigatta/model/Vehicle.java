@@ -81,8 +81,3 @@ public class Vehicle {
     this.transmissionType = transmissionType;
   }
 }
-
-enum TransmissionType {
-  MANUAL,
-  AUTO;
-}
